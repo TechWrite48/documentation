@@ -19,6 +19,7 @@ To review older entries, visit the [Changelog archive]({{< ref "/nginxaas-azure/
 
   NGINXaaS for Azure deployments using the **Stable** [Upgrade Channel]({{< ref "/nginxaas-azure/quickstart/upgrade-channels.md" >}}) have now been automatically upgraded to  [NGINX Plus Release 33 (R33)]({{< ref "/nginx/releases.md#nginxplusrelease-33-r33" >}}). This upgrade also includes updates to the following NGINX Plus modules:
   - nginx-plus-module-njs
+
    For entitlement and visibility policy, check [the FAQs]({{< ref "/nginxaas-azure/faq.md" >}}) to address any additional questions you might have.
    For a complete list of allowed directives, see the [Configuration Directives List]({{< ref "/nginxaas-azure/getting-started/nginx-configuration/nginx-configuration-portal.md#configuration-directives-list" >}}).
 
