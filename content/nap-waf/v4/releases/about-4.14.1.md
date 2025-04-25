@@ -8,8 +8,6 @@ product: NAP-WAF
 
 April 1st, 2025
 
----
-
 ## New features
 
 
